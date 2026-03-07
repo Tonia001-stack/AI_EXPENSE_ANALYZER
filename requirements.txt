@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+joblib
+streamlit==1.19.0
+matplotlib
+altair==4.2.2
+numpy
