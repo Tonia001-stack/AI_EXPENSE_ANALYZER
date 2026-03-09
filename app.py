@@ -37,7 +37,7 @@ description = st.text_input(
 # Predict button
 predict_button = st.button("Predict Category")
 
-st.divider()
+st.markdown("---")
   
 #Prediction area
 if predict_button:
