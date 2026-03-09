@@ -113,7 +113,7 @@ This app can be deployed using:
 Deployment link:
 
 ```
-(Add link after deployment)
+(https://aiexpenseanalyzer-f5qvlabwhats4tzm9dqftr.streamlit.app)
 ```
 
 ---
@@ -156,4 +156,5 @@ Accuracy improved by:
 # 👩‍💻 Author- TONIA
 
 Built as part of a **Machine Learning learning project** focused on NLP and text classification.
+
 
